@@ -6,7 +6,7 @@
 -   📰 My name is Hoàng Quang Tường.
 -   ❤️‍🔥 25/06/2004
 -   💬 My nickname is Dragon
--   🍁 Profile: [Facebook](https://www.facebook.com/copyrightQuangTuong.Developers)
+-   🍁 Profile: [Facebook](https://www.facebook.com/hoangquangtuong.User)
 -   🍀 Describe yourself: I like to travel, explore, play games. Although I am a quiet person, anyone who comes into contact with me, I am willing to open my heart. I am currently living and working in Ho Chi Minh City.
 <hr>
 
@@ -15,10 +15,10 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoangquangtuongxDevelopers&include_all_commits=true&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hoangquangtuong&include_all_commits=true&count_private=true&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />
-    <img src="https://raw.githubusercontent.com/hoangquangtuongxDevelopers/stats/main/stats/generated/overview.svg" />
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=hoangquangtuongxDevelopers" />
+    <img src="https://raw.githubusercontent.com/hoangquangtuong/stats/main/stats/generated/overview.svg" />
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=hoangquangtuong" />
   </td>
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
 </tr>
@@ -44,7 +44,7 @@
 
 
 ### 📫 Contact me via:
-- EMAIL: hoangquangtuong.contact@gmail.com
+- EMAIL: hoangquangtuong@hoangquangtuong.id.vn
 - YOTUBE: Hoàng Quang Tường
 
 [website]: [https://www.youtube.com/channel/UCEIpQn8TXIzKOYKA6ZUUC7g]
@@ -60,9 +60,9 @@
 <p align="center">
 &nbsp; <a href="https://www.youtube.com/channel/UCEIpQn8TXIzKOYKA6ZUUC7g" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/youtube-play.png" width="100" /></a> 
 &nbsp; <a href="https://www.tiktok.com/@hoangquangtuong" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/tiktok.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/hoangquangtuongxDevelopers" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/copyrightQuangTuong.Developers" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:hoangquangtuong.contact@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="https://github.com/hoangquangtuong" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/hoangquangtuong.User" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:hoangquangtuong@hoangquangtuong.id.vn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
 <br>
 <a href="#" target="_blank">

@@ -1,4 +1,4 @@
-### Hi, I'm QUANG TUONG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [Tường IT][website] = Software Engineer + Youtuber 🌻  
+### Hi, I'm QUANG TUONG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [Tường][website] = Software Engineer + Youtuber 🌻  
 # 📰 Talking about Information
 
 <img align="right" width=200px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
